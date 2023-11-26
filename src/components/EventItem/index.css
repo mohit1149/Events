@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 23px;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.list-item {
+  list-style-type: none;
+}
+.event-button {
+  border-width: 0px;
+  background-color: transparent;
+}
+.event-image {
+  width: 20vw;
+  height: 25vh;
+}

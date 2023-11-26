@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.yet-to-register-container {
+  width: 20vw;
+  height: 30vh;
+  padding-top: 40px;
+}
+.yet-to-register-paragraph {
+  font-family: 'Roboto';
+  color: #2dd4bf;
+}
+.yet-to-register-button {
+  padding: 10px;
+  background-color: #0967d2;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-width: 0px;
+  border-radius: 6px;
+  width: 20vw;
+}
+.initial-heading {
+  font-family: 'Roboto';
+  color: #2dd4bf;
+}
+.registration-photo {
+  width: 15vw;
+}

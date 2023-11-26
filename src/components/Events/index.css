@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+}
+.left-container {
+  background-color: #64748b;
+  width: 50%;
+}
+.event-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-left: 40px;
+}
+.unOrder-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  margin-left: 40px;
+}
+.right-container {
+  display: flex;
+  justify-content: center;
+  width: 45vw;
+}
